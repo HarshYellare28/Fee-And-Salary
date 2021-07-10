@@ -26,19 +26,4 @@ CalculatePromotedLevel and Calculate Increment is declared in abstract class Emp
 Display function is also implemented in student and employee class .
 
 
-NAME: HARSH YELLARE
-ROLL.NO: BT19CSE124
-ASSIGNMENT NUMBER: 3
-QUESTION NUMBER: 2
-DATE OF SUBMISSION: 29-03-2021
-DESCRIPTION: JAVA program to implement a class Account and a class Cibil derived from Account .
-class Cibil has two abstract methods one to calculate cibil score and another to determine eligibility
 
-WORKING
-------------
-Run the project on any IDE/terminal(Project folder is submitted)
-
-Detais :
-Class cibil is derived from account class .
-An array of objects of type Cibil is created in the main function.
-Display function is also implemented in Cibil class along with the two other functions .
