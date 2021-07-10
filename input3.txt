@@ -1,95 +1,61 @@
 2
 2
-Harsh Yellare
-sadar bazaar
-9765344124
-yellare@gmail.com
+Sam Curran
+London England
+9XXXJSDJ4
+CURRAN@gmail.com
 5000
 3000
 Sophomore
-Niharika Yellare
-sadar Ahmd
-9765344444
-yellareNiha@gmail.com
+PT Usha
+India
+97XXXXXXVN
+Usha@gmail.com
 5000
 3000
 Senior
-Shree shuk
-sadar Pune
+Shree Mask
+Pune India
 976515165
-shreeshuk@gmail.com
+Mask@gmail.com
 5000
 3000
 Senior
-Deep walke
-nagpur mah
+Maradona
+Argentina
 74522263
-deepwalke@hm.com
+maradona@hm.com
 5000
 3000
 Freshman
 
 2
 2
-Harsh Yellare
+Ramesh
 sadar bazaar
-9765344124
-yellare@gmail.com
+97XXXXXXX
+ramesh@outlook
 5000.256
 1
 870
-Niharika Yellare
+suresh
 sadar Ahmd
 9765344444
-yellareNiha@gmail.com
+suresh@gmail.com
 4500.48
 2
 1002
-Shree shuk
-sadar Pune
+Mukesh
+Nagpur
 976515165
-shreeshuk@gmail.com
+muku@gmail.com
 5000
 4
 505
-Deep walke
-nagpur mah
+Dipesh
+hyd mah
 74522263
-deepwalke@hm.com
+dipu@hm.com
 5000
 2
 606
-
-4
-4855
-50000.0
-500000
-400000
-7
-20000 0 20000 20000 20000 0 20000
-3
-2
-1234
-40000.0
-100000
-50000
-5
-20000 20000 0 0 0
-5
-2
-1235
-25000
-500000
-100000
-7
-20000 0 20000 0 0 0 0
-3
-2
-4855
-50000.0
-500000
-400000
-7
-20000 0 20000 20000 20000 20000 20000
-3
-2
